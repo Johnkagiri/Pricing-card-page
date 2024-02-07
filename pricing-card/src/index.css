@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.marker-red::marker {
+  color: red; /* Change the color of the list marker to red */
+}
+/* m */
